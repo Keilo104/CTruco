@@ -94,8 +94,6 @@ module bot.impl {
             SabotaBot,
             CaipirasBot,
             PauladaSecaBot,
-            MarrecoBot,
-            AddTheNewSoul,
             JormungandrBot,
             LazyBot,
             Akkosocorrompido,
